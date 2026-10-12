@@ -1,8 +1,8 @@
-# Hi there, I'm Jack! 👋
+# Hi, I'm Jack! 👋
 
-I am a 2nd-year Computer Science student at **Queen Mary University of London**, actively seeking a placement year for the 2027/2028 academic year. 
+I’m a Computer Science student at **Queen Mary University of London** (School of EECS) and an aspiring Software Engineer.  
 
-I am passionate about building web apps, engineering, and I'm currently focused on building projects that solve real-world problems.
+My main focus is on writing clean code, learning new frameworks, and building practical projects from scratch. I thrive on solving complex technical problems and am actively looking for software engineering opportunities.
 
 ## Education & Goals
 * **Degree:** BSc Computer Science, Queen Mary University of London
